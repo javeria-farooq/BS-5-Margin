@@ -1,0 +1,16 @@
+#pink{
+    background-color: pink;
+    text-align: right;
+}
+
+#magenta{
+    background-color: magenta;
+}
+
+#colorCode{
+    background-color: rgb(177, 144, 179);
+}
+
+.row{
+    border: 5px solid black;
+}
